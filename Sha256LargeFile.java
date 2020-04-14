@@ -57,7 +57,6 @@ public class Sha256LargeFile {
 			System.exit(0);
 		}
 
-		//String filenameString = "java-crypto_bplaced_net.pdf";
 		byte[] hashByte = generateSha256Buffered(filename);
 		System.out.println("\nSHA-256-Hash der Datei: " + filename);
 		ta_Text = ta_Text + "SHA-256-Hash der Datei: " + filename + "\n";
