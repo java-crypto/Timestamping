@@ -1,0 +1,14 @@
+Datei: testfile_originstamp_2020_05_06 data.txt
+
+SHA256: 5d329ca42c57bab16b7932b8a1f7d5817bfbf1eecac9a02e5323277e34b4f7c0
+
+Private key: 9a658861cb83a3be71bf3f1ab313fa9bb17b042bbd76cab1a16cd25725e53346
+
+Transaction: 75e77393abf090af06f79901d581dac469e1243741684d4f6badc7f6774033ab
+
+Timestamp: Thu, 07 May 2020 00:01:22 GMT
+
+
+generate timestamp 1 credit
+certificate download 5 credits
+raw proof download 3 credits
